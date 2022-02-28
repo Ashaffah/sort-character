@@ -1,2 +1,2 @@
 # sortTextCharacter
-Separate vowels and consonants
+Separate vowels and consonants character
